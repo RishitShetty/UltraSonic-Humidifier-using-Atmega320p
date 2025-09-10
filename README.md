@@ -147,8 +147,12 @@ functions were required for a production and market scenario.
 2. PCB Layout Miniaturization 
 o Resistors, capacitors and other components footprint size could be reduced from 
 current 0805 to per se 0402 for example and MCU size also can be reduced 
-considerably if changed. 
-3. Assembly & Testing Jigs 
+considerably if changed.
+<img width="812" height="751" alt="image" src="https://github.com/user-attachments/assets/6c65b273-09c3-4e34-aee1-26399d2a4b1c" />
+<img width="920" height="822" alt="image" src="https://github.com/user-attachments/assets/bc57ab9b-d1f7-4eee-b2f8-7d671caa5b0c" />
+
+
+4. Assembly & Testing Jigs 
 o More debugging lines in code would certainly help gather information of certain 
 failures and help with failure and fault handling. Along with more testing and the 
 addition of functions in future, more testing points need to be added.
